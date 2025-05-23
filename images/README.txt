@@ -1,0 +1,1 @@
+Please replace 'map_sample.jpg' and 'profile.jpg' with your actual images.
